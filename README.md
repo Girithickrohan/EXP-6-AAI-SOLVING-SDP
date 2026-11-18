@@ -1,6 +1,6 @@
 # Exp - 6(AAI) - Solving a Stochastic Grid-World Markov Decision Process Using Value Iteration and Policy Iteration
 ## By Dr. N SARAVANAN, TSML006,ASSISTANT PROFESSOR,AIML,SEC
-## Date: 24-08-2026
+## Date: 18-11-2026
 
 ## NAME: GIRITHICK ROHAN N
 ## REG NO: 212223230063
@@ -314,7 +314,7 @@ print(np.flipud(p_grid))
 
 ## output
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-6-AAI-SOLVING-SDP/blob/main/Screenshot%202026-11-18%20091010.png)
 
 ## Result
 
